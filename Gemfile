@@ -32,7 +32,7 @@ gem 'groupdate', '~> 6.1.0'
 gem 'ransack', '~> 3.2.1'
 
 # Authentication
-gem 'devise', '~> 4.8.1'
+gem 'devise', '~> 4.9.1'
 gem 'devise_token_auth', '~> 1.2.0'
 
 # Protecting exposed ids
